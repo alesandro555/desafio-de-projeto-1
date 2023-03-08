@@ -1,0 +1,31 @@
+git openssl sha1 ,cria uma forma curta de representar um arquivo, contendo nele 40 caracteres.
+
+mkdir ,cria pastas.
+
+cd ,dar acesso a pasta. 
+
+git init ,cria pastas ocultas.
+
+ls ,mostra pastas ou arquivos, dentro da pasta que estar acessando.
+
+ls -a , mostra pastas ocultas.
+
+git add * ,faz com que o git reconheça o arquivo, para apartir dai commitar.
+
+git commit -m "adiciona o titulo" ,cria um commit.
+
+mv "nome do arquivo" ./"nome da pasta nova" ,move um arquivo de uma pasta para outra.
+
+cd .. ,volta 1 nivel da tela.
+
+echo > ,cria arquivos dentro da pasta que estar acessando.
+
+git remote add "nome repositorio" + url ,cria uma repositorio remoto no github.
+
+git push ,empurra arquivos da maquia para github.
+
+git pull ,serve para quando alguem fez alguma alteraçao no seu repositorio, voce mescla a sua alteraçao mais recente co a alteraçao mais recente do github.
+
+
+
+
